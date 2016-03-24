@@ -1,0 +1,6 @@
+C:\Users\Pepi\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\09.Trapezoid\bin\Debug\09.Trapezoid.exe.config
+C:\Users\Pepi\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\09.Trapezoid\bin\Debug\09.Trapezoid.exe
+C:\Users\Pepi\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\09.Trapezoid\bin\Debug\09.Trapezoid.pdb
+C:\Users\Pepi\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\09.Trapezoid\obj\Debug\09.Trapezoid.exe
+C:\Users\Pepi\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\09.Trapezoid\obj\Debug\09.Trapezoid.pdb
+C:\Users\Pepi\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\09.Trapezoid\obj\Debug\09.Trapezoid.csprojResolveAssemblyReference.cache

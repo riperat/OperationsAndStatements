@@ -1,0 +1,5 @@
+C:\Users\Pepi\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\13.CheckBit\bin\Debug\13.CheckBit.exe.config
+C:\Users\Pepi\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\13.CheckBit\bin\Debug\13.CheckBit.exe
+C:\Users\Pepi\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\13.CheckBit\bin\Debug\13.CheckBit.pdb
+C:\Users\Pepi\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\13.CheckBit\obj\Debug\13.CheckBit.exe
+C:\Users\Pepi\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\13.CheckBit\obj\Debug\13.CheckBit.pdb

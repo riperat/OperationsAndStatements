@@ -1,0 +1,6 @@
+C:\Users\Pepi\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+C:\Users\Pepi\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
+C:\Users\Pepi\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
+C:\Users\Pepi\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+C:\Users\Pepi\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb
+C:\Users\Pepi\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.csprojResolveAssemblyReference.cache
